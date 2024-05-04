@@ -16,7 +16,7 @@ The Multi-Disease Prediction App allows users to input relevant medical data and
 
 The Multi-Disease Prediction App is deployed using Streamlit and can be accessed using the following link:
 
-[Multi-Disease Prediction App](https://app-multi-disease-prediction-app-b9tn7kwlmsldxifancnfuk.streamlit.app/)
+[Multi-Disease Prediction App](https://app-multi-disease-prediction-app-bckchw9epgq5uwjyve3oie.streamlit.app/)
 
 ## How to Use
 
