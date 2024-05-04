@@ -1,7 +1,8 @@
+Python==3.12.2
 numpy==1.26.4
 pandas==2.2.1
 scikit-learn==1.4.2
 streamlit==1.33.0
 streamlit-option-menu==0.3.12
 xgboost==2.0.3
-pickle==1.0.1
+pickle
