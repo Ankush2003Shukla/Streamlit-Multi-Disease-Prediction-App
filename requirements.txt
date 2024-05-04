@@ -4,3 +4,4 @@ numpy<=1.25.1
 pickle-mixin==1.0.2
 streamlit-option-menu==0.3.12
 scikit-learn==1.0.1
+xgboost==2.0.3
